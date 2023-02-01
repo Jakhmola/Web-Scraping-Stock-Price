@@ -1,8 +1,7 @@
-import pandas
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import datetime
-import pandas as pd
 
 
 def get_price(symbol):
